@@ -153,5 +153,3 @@ def convert_to_int(numbers, base):
 
 
 
-s = Solution(data_file_path="C:\\Users\\1\\Desktop\\data.txt", protocol_json_path="C:\\Users\\1\\Desktop\\protocol.json")
-print(s.q6())
